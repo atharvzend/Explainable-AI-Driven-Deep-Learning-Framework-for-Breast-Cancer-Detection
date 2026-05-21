@@ -1,0 +1,17 @@
+{
+  "model": "efficientnet_vit",
+  "deletion_auc_mean": 0.952995424196124,
+  "deletion_auc_std": 0.04756728716669788,
+  "insertion_auc_mean": 0.9172149132291088,
+  "insertion_auc_std": 0.12940840064351153,
+  "per_class": {
+    "Benign": {
+      "deletion_auc_mean": 0.917019972652197,
+      "insertion_auc_mean": 0.847945468147518
+    },
+    "Malignant": {
+      "deletion_auc_mean": 0.9889708757400513,
+      "insertion_auc_mean": 0.9864843583106995
+    }
+  }
+}
