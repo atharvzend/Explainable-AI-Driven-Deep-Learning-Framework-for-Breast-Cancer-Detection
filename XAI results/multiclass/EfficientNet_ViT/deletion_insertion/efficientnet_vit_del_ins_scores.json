@@ -1,0 +1,41 @@
+{
+  "model": "efficientnet_vit",
+  "deletion_auc_mean": 0.7778739990258359,
+  "deletion_auc_std": 0.19327132551066561,
+  "insertion_auc_mean": 0.7679709729137132,
+  "insertion_auc_std": 0.22502026462409155,
+  "per_class": {
+    "Adenosis": {
+      "deletion_auc_mean": 0.9390818120290835,
+      "insertion_auc_mean": 0.7999779704376123
+    },
+    "Ductal Carcinoma": {
+      "deletion_auc_mean": 0.9626929963628451,
+      "insertion_auc_mean": 0.9534767426550389
+    },
+    "Fibroadenoma": {
+      "deletion_auc_mean": 0.685109140689076,
+      "insertion_auc_mean": 0.8051629157413238
+    },
+    "Lobular Carcinoma": {
+      "deletion_auc_mean": 0.77710237155358,
+      "insertion_auc_mean": 0.6467787348490673
+    },
+    "Mucinous Carcinoma": {
+      "deletion_auc_mean": 0.7006513935867286,
+      "insertion_auc_mean": 0.7239369693576009
+    },
+    "Papillary Carcinoma": {
+      "deletion_auc_mean": 0.6672379060735011,
+      "insertion_auc_mean": 0.7684221142717925
+    },
+    "Phyllodes Tumor": {
+      "deletion_auc_mean": 0.5384217422824197,
+      "insertion_auc_mean": 0.49575051502033607
+    },
+    "Tubular Adenoma": {
+      "deletion_auc_mean": 0.9526946296294531,
+      "insertion_auc_mean": 0.9502618209769329
+    }
+  }
+}
