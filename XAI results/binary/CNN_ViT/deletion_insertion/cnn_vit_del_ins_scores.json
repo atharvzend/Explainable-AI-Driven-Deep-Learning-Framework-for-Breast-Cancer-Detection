@@ -1,0 +1,17 @@
+{
+  "model": "cnn_vit",
+  "deletion_auc_mean": 0.8944868825981395,
+  "deletion_auc_std": 0.12023351567567485,
+  "insertion_auc_mean": 0.9501987483352423,
+  "insertion_auc_std": 0.041603940715047964,
+  "per_class": {
+    "Benign": {
+      "deletion_auc_mean": 0.8132248232979327,
+      "insertion_auc_mean": 0.9227474032342433
+    },
+    "Malignant": {
+      "deletion_auc_mean": 0.9757489418983459,
+      "insertion_auc_mean": 0.9776500934362412
+    }
+  }
+}
