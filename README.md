@@ -9,7 +9,7 @@ Project on deep learning using the BreakHis dataset for binary and multiclass br
 
 ## About the Project
 
-Breast cancer is the most common cancer in women worldwide. Doctors currently diagnose it by manually examining microscopic tissue images — a slow and error-prone process.
+Breast cancer is the most common cancer in women worldwide. Doctors currently diagnose it by manually examining microscopic tissue images a slow and error-prone process.
 
 We built an AI system that:
 - Detects whether tissue is cancerous or not with **99.49% accuracy**
