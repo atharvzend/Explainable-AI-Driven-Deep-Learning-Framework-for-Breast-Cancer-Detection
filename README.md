@@ -1,4 +1,4 @@
-# Explainable-AI-Driven-Deep-Learning-Framework-for-Breast-Cancer-Detection
+# Explainable AI Driven Deep Learning Framework for Breast Cancer Detection
 Project on deep learning using the BreakHis dataset for binary and multiclass breast cancer detection compared with current studies.
 
 **Published in:** IOSR Journal of Computer Engineering | Volume 28, Issue 3 | May–June 2026
